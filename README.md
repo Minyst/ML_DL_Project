@@ -19,7 +19,7 @@
 - 랜덤 포레스트 모델로 85% 정확도 달성.
 - 고객 이탈에 영향을 미치는 주요 요인 식별.
 
-[프로젝트 저장소](https://github.com/username/churn-prediction) | [Jupyter Notebook](https://github.com/username/churn-prediction/blob/main/churn_prediction.ipynb)
+
 
 ---
 
@@ -35,7 +35,7 @@
 - 휴가 시즌 동안 판매 증가 확인.
 - 상위 성과 제품 및 지역 식별.
 
-[프로젝트 저장소](https://github.com/username/sales-analysis) | [Power BI 대시보드](https://app.powerbi.com/view?r=some_unique_id)
+
 
 ---
 
