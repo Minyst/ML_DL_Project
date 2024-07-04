@@ -28,11 +28,10 @@ url: https://github.com/Minyst/ML_DL_Portfolio/tree/main/Credit%20Card%20Fraud%2
 **Objective**: To compare which performs better between the pretrained and custom YOLOv10 models.
 
 **Technologies Used**:
-model: YOLOv10
-package: ultralytics, supervision, cv2
+-model: YOLOv10
+-package: ultralytics, supervision, cv2
 
 **Key Results**:
-
 After capturing the video and creating multiple frames, 
 each frame was trained with the model, and then these frames were reassembled into a single video. 
 For the pretrained model, predictions were made directly using the model. 
@@ -40,7 +39,9 @@ For the custom model, pre-prepared data was trained using the original YOLOv10 w
 and the best weights obtained were selected as the final weights for the model, which was then used for predictions. 
 This process is similar to a relay race.
 
-When comparing the pretrained and custom models, there was a significant difference. The custom model, which was provided with images of various classes consistently, had a broader prediction range than the automatically recognizing pretrained model. However, its accuracy was much lower compared to the pretrained model.
+When comparing the pretrained and custom models, there was a significant difference. 
+The custom model, which was provided with images of various classes consistently, had a broader prediction range than the automatically recognizing pretrained model. 
+However, its accuracy was much lower compared to the pretrained model.
 
 ---
 
