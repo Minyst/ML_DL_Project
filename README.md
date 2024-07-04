@@ -28,8 +28,8 @@ url: https://github.com/Minyst/ML_DL_Portfolio/tree/main/Credit%20Card%20Fraud%2
 **Objective**: To compare which performs better between the pretrained and custom YOLOv10 models.
 
 **Technologies Used**:
-- model: YOLOv10
-- package: ultralytics, supervision, cv2
+- Model: YOLOv10
+- Package: ultralytics, supervision, cv2
 
 **Key Results**:
 After capturing the video and creating multiple frames, 
