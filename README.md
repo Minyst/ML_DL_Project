@@ -19,22 +19,28 @@ Welcome to my Data Analyst portfolio! Here you can find my projects, skills, and
 To compare whether dimensionality reduction or augmentation improves model performance, 
 I used various machine learning and deep learning models. 
 As a result, I was able to create a ranking table showing which method and model combination yielded the best performance.
-
+The accuracy was similar, so I ranked them based on the ROC_AUC_SCORE.
 url: https://github.com/Minyst/ML_DL_Portfolio/tree/main/Credit%20Card%20Fraud%20Detection
 
 ---
 
-### Project 2: Sales Data Analysis
-**Objective**: To analyze sales data and derive trends and insights.
+### Project 2: YOLOv10 Pretrained vs Custom
+**Objective**: To compare which performs better between the pretrained and custom YOLOv10 models.
 
 **Technologies Used**:
-- Python (NumPy, Pandas, Seaborn)
-- Power BI
-- Excel
+model: YOLOv10
+package: ultralytics, supervision, cv2
 
 **Key Results**:
-- Observed an increase in sales during the holiday season.
-- Identified top-performing products and regions.
+
+After capturing the video and creating multiple frames, 
+each frame was trained with the model, and then these frames were reassembled into a single video. 
+For the pretrained model, predictions were made directly using the model. 
+For the custom model, pre-prepared data was trained using the original YOLOv10 weights, 
+and the best weights obtained were selected as the final weights for the model, which was then used for predictions. 
+This process is similar to a relay race.
+
+When comparing the pretrained and custom models, there was a significant difference. The custom model, which was provided with images of various classes consistently, had a broader prediction range than the automatically recognizing pretrained model. However, its accuracy was much lower compared to the pretrained model.
 
 ---
 
