@@ -44,7 +44,7 @@ When comparing the pretrained and custom models, there was a significant differe
 The custom model, which was provided with images of various classes consistently, had a broader prediction range than the automatically recognizing pretrained model. <br/>
 However, its accuracy was much lower compared to the pretrained model.
 
-URL: https://github.com/Minyst/ML_DL_Portfolio/tree/main/YOLOv10%20Pretrained%20vs%20Custom
+URL: https://github.com/Minyst/ML_DL_Portfolio/tree/main/YOLO
 
 ---
 
