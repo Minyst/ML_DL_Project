@@ -80,7 +80,7 @@ https://github.com/Minyst/ML_DL_Portfolio/tree/main/Detectron
 Using the RVC model to make one singer's voice sing another singer's song.
 
 **Technologies Used** <br/>
-Model: RVC
+- Model: RVC
 
 **Key Results** <br/>
 This project can be explained in five steps. 
