@@ -7,21 +7,22 @@ Welcome to my Data Analyst portfolio! Here you can find my projects, skills, and
 ## 📊 Projects
 
 ### Project 1: Credit Card Fraud Detection
-**Objective**: To determine which model performs best when data is reduced or augmented.
+**Objective** <br/> 
+To determine which model performs best when data is reduced or augmented.
 
-**Technologies Used**:
+**Technologies Used** <br/>
 - Dimensionality Reduction: PCA, tSNE, UMAP
 - Dimensionality Augmentation: SMOTE, BorderLineSMOTE, ADASYN
 - Machine Learning Models: RandomForest, XGBoost, CatBoost, LightGBM
 - Deep Learning Models: TensorFlow, Pytorch 
 
-**Key Results**:
+**Key Results** <br/>
 To compare whether dimensionality reduction or augmentation improves model performance, <br/>
 I used various machine learning and deep learning models. <br/>
 As a result, I was able to create a ranking table showing which method and model combination yielded the best performance. <br/>
 The accuracy was similar, so I ranked them based on the ROC_AUC_SCORE.
 
-**URL**
+**URL** <br/>
 https://github.com/Minyst/ML_DL_Portfolio/tree/main/Credit%20Card%20Fraud%20Detection
 
 ---
