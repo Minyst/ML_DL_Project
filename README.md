@@ -48,6 +48,49 @@ URL: https://github.com/Minyst/ML_DL_Portfolio/tree/main/YOLO
 
 ---
 
+### Project 3: Detectron2 Pretrained vs Custom
+**Objective**: To compare which performs better between the pretrained and custom Detectron2 models.
+
+**Technologies Used**:
+- Model: Detectron2
+- Package: detectron2, cv2
+
+**Key Results**:
+Detectron2 is almost identical to YOLOv10, but there are two key differences. <br/>
+First, Detectron2 uses Faster RCNN weights, unlike YOLOv10. <br/>
+Second, while YOLOv10 shows some differences in results between pretrained and custom models, <br/>
+Detectron2 exhibits no noticeable differences."
+
+URL: 
+
+---
+
+### Project 4: CNN - CIFAR-10
+**Objective**: Using CIFAR-10 data, build a complex CNN with TensorFlow and PyTorch.
+
+**Technologies Used**:
+- Tensorflow, Pytorch
+
+**Key Results**:
+All processes of the CNN with TensorFlow and PyTorch are included: Data Augmentation, Padding, Batch Normalization, Pooling, Dropout, Flatten.
+
+URL:
+
+---
+
+### Project 5: AI Cover - RVC
+**Objective**: Using the RVC model to make one singer's voice sing another singer's song.
+
+**Technologies Used**:
+- Model: RVC
+
+**Key Results**:
+
+
+URL: 
+
+---
+
 ## 📈 Skills
 
 - **Programming Languages**: Python, SQL
