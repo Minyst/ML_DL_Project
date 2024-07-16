@@ -104,8 +104,8 @@ https://github.com/Minyst/ML_DL_Portfolio/tree/main/AI%20Cover
 Using CIFAR-10 data, build a complex CNN with TensorFlow and PyTorch.
 
 **Technologies Used** <br/>
-- Tensorflow
-- Pytorch
+- Models : TensorFlow, Pytorch
+- CNN Process : Data Augmentation, Conv2d, Padding, Batch Normalization, Pooling, Dropout, Flatten 
 
 **Key Results** <br/>
 All processes of the CNN with TensorFlow and PyTorch are included: Data Augmentation, Padding, Batch Normalization, Pooling, Dropout, Flatten.
