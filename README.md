@@ -7,6 +7,7 @@ Welcome to my Data Analyst portfolio! Here you can find my projects, skills, and
 ## 📊 Projects
 
 ### Project 1: Credit Card Fraud Detection
+
 **Objective** <br/> 
 To determine which model performs best when data is reduced or augmented.
 
@@ -28,13 +29,15 @@ https://github.com/Minyst/ML_DL_Portfolio/tree/main/Credit%20Card%20Fraud%20Dete
 ---
 
 ### Project 2: YOLOv10 Pretrained vs Custom
-**Objective**: To compare which performs better between the pretrained and custom YOLOv10 models.
 
-**Technologies Used**:
+**Objective** <br/>
+To compare which performs better between the pretrained and custom YOLOv10 models.
+
+**Technologies Used** <br/>
 - Model: YOLOv10
 - Package: ultralytics, supervision, cv2
 
-**Key Results**:
+**Key Results** <br/>
 After capturing the video and creating multiple frames, <br/>
 each frame was trained with the model, and then these frames were reassembled into a single video. <br/>
 For the pretrained model, predictions were made directly using the model. <br/>
@@ -46,36 +49,40 @@ When comparing the pretrained and custom models, there was a significant differe
 The custom model, which was provided with images of various classes consistently, had a broader prediction range than the automatically recognizing pretrained model. <br/>
 However, its accuracy was much lower compared to the pretrained model.
 
-**URL**
+**URL** <br/>
 https://github.com/Minyst/ML_DL_Portfolio/tree/main/YOLO
 
 ---
 
 ### Project 3: Detectron2 Pretrained vs Custom
-**Objective**: To compare which performs better between the pretrained and custom Detectron2 models.
 
-**Technologies Used**:
+**Objective** <br/>
+To compare which performs better between the pretrained and custom Detectron2 models.
+
+**Technologies Used** <br/>
 - Model: Detectron2
 - Package: detectron2, cv2
 
-**Key Results**:
+**Key Results** <br/>
 Detectron2 is almost identical to YOLOv10, but there are two key differences. <br/>
 First, Detectron2 uses Faster RCNN weights, unlike YOLOv10. <br/>
 Second, while YOLOv10 shows some differences in results between pretrained and custom models, <br/>
 Detectron2 exhibits no noticeable differences."
 
-**URL**
+**URL** <br/>
 https://github.com/Minyst/ML_DL_Portfolio/tree/main/Detectron
 
 ---
 
 ### Project 4: AI Cover - RVC
-**Objective**: Using the RVC model to make one singer's voice sing another singer's song.
 
-**Technologies Used**:
+**Objective** <br/>
+Using the RVC model to make one singer's voice sing another singer's song.
+
+**Technologies Used** <br/>
 - Model: RVC
 
-**Key Results**:
+**Key Results** <br/>
 This project can be explained in five steps. 
 First, split the downloaded YouTube music into vocals and background music. 
 Second, slice the vocals into multiple segments to enhance the model's learning. 
@@ -86,21 +93,23 @@ Fifth, generate a music file where the singer performs a different song.
 I was amazed at how natural the generated music sounded. 
 Detailed adjustments can be made, and having an expert involved could further improve the synchronization and overall quality.
 
-**URL**
+**URL** <br/>
 https://github.com/Minyst/ML_DL_Portfolio/tree/main/AI%20Cover
 
 ---
 
 ### Project 5: CNN - CIFAR-10
-**Objective**: Using CIFAR-10 data, build a complex CNN with TensorFlow and PyTorch.
 
-**Technologies Used**:
+**Objective** <br/>
+Using CIFAR-10 data, build a complex CNN with TensorFlow and PyTorch.
+
+**Technologies Used** <br/>
 - Tensorflow, Pytorch
 
-**Key Results**:
+**Key Results** <br/>
 All processes of the CNN with TensorFlow and PyTorch are included: Data Augmentation, Padding, Batch Normalization, Pooling, Dropout, Flatten.
 
-**URL**
+**URL** <br/>
 https://github.com/Minyst/ML_DL_Portfolio/tree/main/CNN
 
 ---
