@@ -61,7 +61,7 @@ First, Detectron2 uses Faster RCNN weights, unlike YOLOv10. <br/>
 Second, while YOLOv10 shows some differences in results between pretrained and custom models, <br/>
 Detectron2 exhibits no noticeable differences."
 
-URL: 
+URL: https://github.com/Minyst/ML_DL_Portfolio/tree/main/Detectron
 
 ---
 
@@ -74,7 +74,7 @@ URL:
 **Key Results**:
 All processes of the CNN with TensorFlow and PyTorch are included: Data Augmentation, Padding, Batch Normalization, Pooling, Dropout, Flatten.
 
-URL:
+URL: https://github.com/Minyst/ML_DL_Portfolio/tree/main/CNN
 
 ---
 
@@ -95,7 +95,7 @@ Fifth, generate a music file where the singer performs a different song.
 I was amazed at how natural the generated music sounded. 
 Detailed adjustments can be made, and having an expert involved could further improve the synchronization and overall quality.
 
-URL: 
+URL: https://github.com/Minyst/ML_DL_Portfolio/tree/main/AI%20Cover
 
 ---
 
