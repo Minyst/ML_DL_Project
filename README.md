@@ -21,7 +21,8 @@ I used various machine learning and deep learning models. <br/>
 As a result, I was able to create a ranking table showing which method and model combination yielded the best performance. <br/>
 The accuracy was similar, so I ranked them based on the ROC_AUC_SCORE.
 
-URL: https://github.com/Minyst/ML_DL_Portfolio/tree/main/Credit%20Card%20Fraud%20Detection
+**URL**
+https://github.com/Minyst/ML_DL_Portfolio/tree/main/Credit%20Card%20Fraud%20Detection
 
 ---
 
@@ -44,7 +45,8 @@ When comparing the pretrained and custom models, there was a significant differe
 The custom model, which was provided with images of various classes consistently, had a broader prediction range than the automatically recognizing pretrained model. <br/>
 However, its accuracy was much lower compared to the pretrained model.
 
-URL: https://github.com/Minyst/ML_DL_Portfolio/tree/main/YOLO
+**URL**
+https://github.com/Minyst/ML_DL_Portfolio/tree/main/YOLO
 
 ---
 
@@ -61,24 +63,12 @@ First, Detectron2 uses Faster RCNN weights, unlike YOLOv10. <br/>
 Second, while YOLOv10 shows some differences in results between pretrained and custom models, <br/>
 Detectron2 exhibits no noticeable differences."
 
-URL: https://github.com/Minyst/ML_DL_Portfolio/tree/main/Detectron
+**URL**
+https://github.com/Minyst/ML_DL_Portfolio/tree/main/Detectron
 
 ---
 
-### Project 4: CNN - CIFAR-10
-**Objective**: Using CIFAR-10 data, build a complex CNN with TensorFlow and PyTorch.
-
-**Technologies Used**:
-- Tensorflow, Pytorch
-
-**Key Results**:
-All processes of the CNN with TensorFlow and PyTorch are included: Data Augmentation, Padding, Batch Normalization, Pooling, Dropout, Flatten.
-
-URL: https://github.com/Minyst/ML_DL_Portfolio/tree/main/CNN
-
----
-
-### Project 5: AI Cover - RVC
+### Project 4: AI Cover - RVC
 **Objective**: Using the RVC model to make one singer's voice sing another singer's song.
 
 **Technologies Used**:
@@ -95,7 +85,22 @@ Fifth, generate a music file where the singer performs a different song.
 I was amazed at how natural the generated music sounded. 
 Detailed adjustments can be made, and having an expert involved could further improve the synchronization and overall quality.
 
-URL: https://github.com/Minyst/ML_DL_Portfolio/tree/main/AI%20Cover
+**URL**
+https://github.com/Minyst/ML_DL_Portfolio/tree/main/AI%20Cover
+
+---
+
+### Project 5: CNN - CIFAR-10
+**Objective**: Using CIFAR-10 data, build a complex CNN with TensorFlow and PyTorch.
+
+**Technologies Used**:
+- Tensorflow, Pytorch
+
+**Key Results**:
+All processes of the CNN with TensorFlow and PyTorch are included: Data Augmentation, Padding, Batch Normalization, Pooling, Dropout, Flatten.
+
+**URL**
+https://github.com/Minyst/ML_DL_Portfolio/tree/main/CNN
 
 ---
 
