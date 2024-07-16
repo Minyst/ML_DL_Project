@@ -83,15 +83,15 @@ Using the RVC model to make one singer's voice sing another singer's song.
 - Model: RVC
 
 **Key Results** <br/>
-This project can be explained in five steps. 
-First, split the downloaded YouTube music into vocals and background music. 
-Second, slice the vocals into multiple segments to enhance the model's learning. 
-Third, download the RVC_pretrained model. 
-Fourth, train the model. 
-Fifth, generate a music file where the singer performs a different song.
+This project can be explained in five steps. <br/>
+First, split the downloaded YouTube music into vocals and background music. <br/>
+Second, slice the vocals into multiple segments to enhance the model's learning. <br/>
+Third, download the RVC_pretrained model. <br/>
+Fourth, train the model. <br/>
+Fifth, generate a music file where the singer performs a different song. <br/>
 
-I was amazed at how natural the generated music sounded. 
-Detailed adjustments can be made, and having an expert involved could further improve the synchronization and overall quality.
+I was amazed at how natural the generated music sounded. <br/>
+Detailed adjustments can be made, and having an expert involved could further improve the synchronization and overall quality. 
 
 **URL** <br/>
 https://github.com/Minyst/ML_DL_Portfolio/tree/main/AI%20Cover
