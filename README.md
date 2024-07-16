@@ -85,7 +85,15 @@ URL:
 - Model: RVC
 
 **Key Results**:
+This project can be explained in five steps. 
+First, split the downloaded YouTube music into vocals and background music. 
+Second, slice the vocals into multiple segments to enhance the model's learning. 
+Third, download the RVC_pretrained model. 
+Fourth, train the model. 
+Fifth, generate a music file where the singer performs a different song.
 
+I was amazed at how natural the generated music sounded. 
+Detailed adjustments can be made, and having an expert involved could further improve the synchronization and overall quality.
 
 URL: 
 
