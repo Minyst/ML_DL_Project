@@ -80,7 +80,7 @@ https://github.com/Minyst/ML_DL_Portfolio/tree/main/Detectron
 Using the RVC model to make one singer's voice sing another singer's song.
 
 **Technologies Used** <br/>
-- Model: RVC
+Model: RVC
 
 **Key Results** <br/>
 This project can be explained in five steps. 
@@ -104,7 +104,8 @@ https://github.com/Minyst/ML_DL_Portfolio/tree/main/AI%20Cover
 Using CIFAR-10 data, build a complex CNN with TensorFlow and PyTorch.
 
 **Technologies Used** <br/>
-- Tensorflow, Pytorch
+- Tensorflow
+- Pytorch
 
 **Key Results** <br/>
 All processes of the CNN with TensorFlow and PyTorch are included: Data Augmentation, Padding, Batch Normalization, Pooling, Dropout, Flatten.
