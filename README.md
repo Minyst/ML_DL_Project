@@ -118,9 +118,9 @@ https://github.com/Minyst/ML_DL_Portfolio/tree/main/CNN
 ## 📈 Skills
 
 - **Programming Languages**: Python
+- **Data Preprocessing**: Pandas, NumPy
 - **Data Visualization**: Matplotlib
 - **Machine Learning & Deep Learning**: Scikit-Learn, TensorFlow, Pytorch, OpenCV
-- **Data Manipulation**: Pandas, NumPy
 - **Databases**: 
 - **Tools**: Jupyter Notebook, Google Colab
 
