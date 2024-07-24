@@ -117,12 +117,12 @@ https://github.com/Minyst/ML_DL_Portfolio/tree/main/CNN
 
 ## 📈 Skills
 
-- **Programming Languages**: Python, SQL
-- **Data Visualization**: Matplotlib, Seaborn, Tableau
-- **Machine Learning & Deep Learning**: Scikit-Learn, TensorFlow, Pytorch
+- **Programming Languages**: Python
+- **Data Visualization**: Matplotlib
+- **Machine Learning & Deep Learning**: Scikit-Learn, TensorFlow, Pytorch, OpenCV
 - **Data Manipulation**: Pandas, NumPy
-- **Databases**: MySQL
-- **Tools**: Jupyter Notebook
+- **Databases**: 
+- **Tools**: Jupyter Notebook, Google Colab
 
 ---
 
