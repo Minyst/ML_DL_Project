@@ -1,6 +1,6 @@
 # 🎓 Data Scientist Portfolio
 
-Welcome to my Data Analyst portfolio! Here you can find my projects, skills, and contributions to the field of data analysis.
+Welcome to my Data Scientist portfolio! Here you can find my projects, skills, and contributions to the field of data science.
 
 ---
 
