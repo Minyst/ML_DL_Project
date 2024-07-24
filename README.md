@@ -1,4 +1,4 @@
-# 🎓 Data Analyst Portfolio
+# 🎓 Data Scientist Portfolio
 
 Welcome to my Data Analyst portfolio! Here you can find my projects, skills, and contributions to the field of data analysis.
 
@@ -129,7 +129,6 @@ https://github.com/Minyst/ML_DL_Portfolio/tree/main/CNN
 ## 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
